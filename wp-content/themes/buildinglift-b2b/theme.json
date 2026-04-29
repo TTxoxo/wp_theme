@@ -1,0 +1,13 @@
+{
+	"version": 2,
+	"settings": {
+		"color": {
+			"palette": [
+				{ "slug": "primary", "name": "Primary", "color": "#0f3a66" },
+				{ "slug": "cta", "name": "CTA", "color": "#ef8b1e" },
+				{ "slug": "text", "name": "Text", "color": "#1f2933" },
+				{ "slug": "bg", "name": "Background", "color": "#ffffff" }
+			]
+		}
+	}
+}

@@ -1,0 +1,30 @@
+/*
+Theme Name: BuildingLift B2B
+Theme URI: https://buildinglift.com/
+Description: B2B industrial product showcase child theme for BuildingLift.
+Author: BuildingLift
+Template: generatepress
+Version: 0.1.0
+Text Domain: buildinglift-b2b
+*/
+
+:root {
+	--bl-color-primary: #0f3a66;
+	--bl-color-cta: #ef8b1e;
+	--bl-color-bg: #ffffff;
+	--bl-color-bg-soft: #f5f7fa;
+	--bl-color-text: #1f2933;
+	--bl-color-border: #d9e2ec;
+	--bl-container: 1200px;
+}
+
+body {
+	color: var(--bl-color-text);
+	background-color: var(--bl-color-bg);
+}
+
+.bl-container {
+	max-width: var(--bl-container);
+	margin: 0 auto;
+	padding: 0 1rem;
+}
